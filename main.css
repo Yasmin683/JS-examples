@@ -1,0 +1,71 @@
+body{
+    background-image: url(./pexels-didsss-2969925.jpg);
+
+}
+.div1{
+ width: 500px;
+ height: 250px;
+background-color: rgba(0,0,0,0.3);
+margin-left: 500px;
+margin-top: 200px;
+border-radius: 20px;}
+
+   h2{
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 20px;
+margin-top: 10px;
+
+
+
+
+}
+ .div1 input{
+    width: 350px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.div1 button{
+
+
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: brown;
+   margin-left: 90px;
+   margin-top: 20px;
+    border-radius: 20px;
+  
+}
+.card2{
+
+    width: 500px;
+    height: 250px;
+    background-color:rgba(0,0,0,0.3) ;
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+div.alert {
+   
+    width: 400px;
+    height: 40px;
+    border-radius: 40px;
+    margin-left: 50px;
+   margin-top: 50px;
+    text-align: center;
+    
+}
+
+
+.none{
+    display: none;
+}
+#all_tasks i{
+
+    cursor: pointer;
+    font-size: 15px;
+}
